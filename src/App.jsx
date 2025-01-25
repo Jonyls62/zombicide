@@ -17,7 +17,7 @@ const App = () => {
       </h1>
 
       {currentCard && (
-        <ResponsiveImage src={currentCard.image} alt={currentCard.name} />
+        <ResponsiveImage src={currentCard.url} alt={currentCard.id} />
       )}
 
       <button
