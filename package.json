@@ -2,6 +2,8 @@
   "name": "zombicide",
   "private": true,
   "version": "0.0.0",
+  "homepage": " https://jonyls62.github.io/zombicide/",
+ 
   "type": "module",
   "scripts": {
     "dev": "vite",
